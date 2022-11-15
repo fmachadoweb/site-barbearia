@@ -36,7 +36,7 @@
 
 
 <!-- SOBRE O PROJETO -->
-## sobre
+## Sobre
 
 Este foi um site feito com HTML e CSS no curso de Front-End da Alura..
 
