@@ -24,19 +24,19 @@
 
 
 
-<!-- TABLE OF CONTENTS -->
+<!-- MENU DE NAVEGAÇÃO -->
 <details>
   <summary>Table of Contents</summary>
   <ul>
-    <li><a href="#about-the-project">About The Project</a></li>
-    <li><a href="#contact">Contact</a></li>
+    <li><a href="#sobre">Sobre o preojeto</a></li>
+    <li><a href="#contato">Contato</a></li>
   </ul>
 </details>
 
 
 
 <!-- SOBRE O PROJETO -->
-## About The Project
+## sobre
 
 Este foi um site feito com HTML e CSS no curso de Front-End da Alura..
 
@@ -51,8 +51,8 @@ Objetivo:
 
 
 
-<!-- CONTACT -->
-## Contact
+<!-- CONTATO -->
+## Contato
 
 Fernando Machado - [@fmachadoweb](https://twitter.com/fmachadoweb) - fernandomachadoweb@gmail.com
 
